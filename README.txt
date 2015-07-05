@@ -27,7 +27,7 @@ For unicast:
 	write msg in the upper space.
 
 For Broadcast:
-	Enter msg in the above space.
+	Enter msg in the upper space.
 
 And finally enjoy chatting by pressing Enter.
 
